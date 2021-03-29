@@ -53,3 +53,5 @@ My primary hobbies are:
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&count_private=true" alt="nirzak_stats" />
 <img height="200px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&count_private=true&langs_count=5" alt="nirzak_stats" />
 </p>
+
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
