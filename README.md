@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Nirzak/Nirzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 I am Nirjas Jakilim. I am an aspiring software engineer comes web developer. I used to listen to music a lot.
 My primary hobbies are:
