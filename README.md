@@ -50,7 +50,7 @@ My primary hobbies are:
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
-<img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats" />
+<img height="200px" width="460px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats" />
 <img height="200x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex&count_private=true" alt="nirzak_stats" />
 </p>
 
