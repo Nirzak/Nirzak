@@ -49,9 +49,9 @@ My primary hobbies are:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 
 ## &#x1f4c8; GitHub Stats
-<p align="center">
-<img height="200px" width="460px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats" />
-<img height="200x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook&count_private=true" alt="nirzak_stats" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook&count_private=true" alt="nirzak_stats" />
 </p>
 
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+<img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
