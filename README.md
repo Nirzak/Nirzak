@@ -49,7 +49,6 @@ My primary hobbies are:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 
 ## &#x1f4c8; GitHub Stats
-![Metrics](https://github.com/nirzak/nirzak/blob/main/github-metrics.svg)</ br>
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook&count_private=true" alt="nirzak_stats" />
 
