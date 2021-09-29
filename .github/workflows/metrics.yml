@@ -14,6 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          USERNAME: Nirzak
-          SHOW_TITLE: True
-          COMMIT_MESSAGE: github metrics updated
+          username: Nirzak
+          show_title: True
+          commit_message: github metrics updated
