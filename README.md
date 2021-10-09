@@ -1,9 +1,10 @@
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Nirjas Jakilim**. I am an aspiring software engineer comes web developer. I used to listen to music a lot.
+I am **Nirjas Jakilim**. I am an aspiring software engineer and loves to learn new things. I am also very fond of open souce contribution.
 My primary hobbies are:
 - Listening to music
 - Programming
-- Problem Solving.
+- Open-Source Contribution.
+- Problem Solving
 
 ![Profile views](https://gpvc.arturio.dev/nirzak)
 <a href="https://www.linkedin.com/in/nirzak/">
