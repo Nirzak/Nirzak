@@ -3,10 +3,11 @@ I am **Nirjas Jakilim**, a recent computer science graduate who is always commit
 My primary hobbies are:
 - Listening to music
 - Programming
-- Open-Source Contribution.
+- Open-Source Contribution
 - Problem Solving
 
 ![Profile views](https://gpvc.arturio.dev/nirzak)
+[![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
 <a href="https://www.linkedin.com/in/nirzak/">
   <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
