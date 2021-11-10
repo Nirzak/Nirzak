@@ -1,5 +1,5 @@
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Nirjas Jakilim**. I am an aspiring software engineer and loves to learn new things. I am also very fond of open souce contribution.
+I am **Nirjas Jakilim**, a recent computer science graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them. 
 My primary hobbies are:
 - Listening to music
 - Programming
@@ -51,7 +51,7 @@ My primary hobbies are:
 
 ## &#x1f4c8; GitHub Stats
 ![Metrics](https://github.com/nirzak/nirzak/blob/main/github-metrics.svg)<br />
-<img src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook&count_private=true" alt="nirzak_stats" />
+<img align="center" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
+<img align="center" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" />
 
 <img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
