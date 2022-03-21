@@ -15,4 +15,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           repositories_batch: 80
           user: Nirzak
+          commits_authoring: Nirzak
           committer_message: github metrics updated
