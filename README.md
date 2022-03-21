@@ -57,8 +57,10 @@ My primary hobbies are:
 ![Metrics](https://github.com/nirzak/nirzak/blob/main/github-metrics.svg)
 
 <p align = "center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" />
- </p>
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" />
+</p>
 
-<img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+<p align="center">
+<img height="200" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true" />
+</p>
