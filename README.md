@@ -6,8 +6,7 @@ My primary hobbies are:
 - Open-Source Contribution
 - Problem Solving
 
-![Profile views](https://gpvc.arturio.dev/nirzak)
-[![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
+
 <a href="https://www.linkedin.com/in/nirzak/">
   <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
@@ -26,6 +25,10 @@ My primary hobbies are:
 <a href="https://www.reddit.com/user/Nirzak">
   <img align="left" alt="Nirzak's Reddit" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/reddit.svg" />
 </a>
+
+![Profile views](https://gpvc.arturio.dev/nirzak)
+[![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
+ 
 
 ## ⚙️ Technologies & Tools
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
@@ -51,8 +54,11 @@ My primary hobbies are:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 
 ## &#x1f4c8; GitHub Stats
-![Metrics](https://github.com/nirzak/nirzak/blob/main/github-metrics.svg)<br />
-<img align="center" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
-<img align="center" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" />
+![Metrics](https://github.com/nirzak/nirzak/blob/main/github-metrics.svg)
+
+<p align = "center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" />
+ </p>
 
 <img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
