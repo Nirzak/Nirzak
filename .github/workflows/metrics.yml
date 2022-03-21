@@ -16,4 +16,5 @@ jobs:
           repositories_batch: 80
           user: Nirzak
           commits_authoring: Nirzak
+          USERNAME: Nirzak
           committer_message: github metrics updated
