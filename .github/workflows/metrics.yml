@@ -13,6 +13,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           repositories_batch: 80
           user: Nirzak
           commits_authoring: Nirzak
