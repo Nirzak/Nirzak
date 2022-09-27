@@ -54,15 +54,8 @@ My primary hobbies are:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 
 ## &#x1f4c8; GitHub Stats
-<p align="center">
-<img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
-</p>
 
-<p align = "center">
-<img width="360" src="https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" />
-</p>
+![NirZak's  Github stats](https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
+<!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
 
-<p align="center">
-<img height="200" src="https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true" />
-</p>
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true)
