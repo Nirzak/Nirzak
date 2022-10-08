@@ -58,7 +58,7 @@ My primary hobbies are:
 <img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
 </p>
 
-![NirZak's  Github stats](https://github-readme-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
+![NirZak's Github stats](https://nirzak-stats.vercel.app/api?username=nirzak&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
 <!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true)
