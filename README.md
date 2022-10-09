@@ -54,11 +54,15 @@ My primary hobbies are:
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
+<p align="left">
 <img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
 </p>
 
-[![NirZak's Github stats](https://nirzak-stats.vercel.app/api?username=Nirzak&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/Nirzak/github-stats-for-personal-use)
+<p align=left>
+      <img  width=400 src="https://streak-stats.demolab.com/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true" alt="NirZak Readme Stats" />
+</p> 
+
 <!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true)
