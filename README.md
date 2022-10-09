@@ -6,6 +6,9 @@ My primary hobbies are:
 - Open-Source Contribution
 - Problem Solving
 
+![Profile views](https://gpvc.arturio.dev/nirzak)
+[![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
+
 <a href="https://www.linkedin.com/in/nirzak/">
   <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
@@ -25,9 +28,7 @@ My primary hobbies are:
   <img align="left" alt="Nirzak's Reddit" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/reddit.svg" />
 </a>
 
-![Profile views](https://gpvc.arturio.dev/nirzak)
-[![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
- 
+<br>
 
 ## ⚙️ Technologies & Tools
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
@@ -65,4 +66,4 @@ My primary hobbies are:
 
 <!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&column=4&count_private=true)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=nirzak&theme=gruvbox&row=2&column=4&margin-h=2&margin-w=2&no-frame=true&count_private=true)
