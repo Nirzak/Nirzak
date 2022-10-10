@@ -61,7 +61,7 @@ My primary hobbies are:
 
 <p align=left>
       <img  width=400 src="https://streak-stats.demolab.com/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
-      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true" alt="NirZak Readme Stats" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="NirZak Readme Stats" />
 </p> 
 
 <!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
