@@ -15,7 +15,7 @@ My primary hobbies are:
 <a href="https://discordapp.com/users/387932013962854401">
   <img align="left" alt="Nirzak's Discord" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/discord.svg" />
 </a>
-<a href="https://facebook.com/nirzash.zakilim">
+<a href="https://facebook.com/nirzaak">
   <img align="left" alt="Nirjas Jakilim | Facebook" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/facebook.svg" />
 </a>
 <a href="https://twitter.com/nirzak07">
