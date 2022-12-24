@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}] #This cron will run the workflow every day 12:00AM
+  schedule: [{cron: "0 0 * * *"}] #This cron will run the workflow every day 12:00AM
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
 jobs:
