@@ -1,5 +1,3 @@
-<head><link rel="me" href="https://mastodon.social/@nirzak"></head>
-
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 I am **Nirjas Jakilim**, a recent computer science graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them. 
 My primary hobbies are:
@@ -29,6 +27,8 @@ My primary hobbies are:
 <a href="https://www.reddit.com/user/Nirzak">
   <img align="left" alt="Nirzak's Reddit" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/reddit.svg" />
 </a>
+
+<a rel="me" href="https://mastodon.social/@nirzak">Mastodon</a>
 
 <br>
 
