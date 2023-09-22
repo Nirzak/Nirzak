@@ -30,6 +30,8 @@ My primary hobbies are:
   <img align="left" alt="Nirzak's Reddit" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/reddit.svg" />
 </a>
 
+<a rel="nofollow me" class="Link--primary" href="https://mastodon.social/@nirzak">Mastodon</a>
+
 <br>
 
 ## ⚙️ Technologies & Tools
