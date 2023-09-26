@@ -1,5 +1,3 @@
-<link href="https://mastodon.social/@nirzak" rel="me">
-
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 I am **Nirjas Jakilim**, a recent computer science graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them. 
 My primary hobbies are:
@@ -8,7 +6,7 @@ My primary hobbies are:
 - Open-Source Contribution
 - Problem Solving
 
-![Profile views](https://gpvc.arturio.dev/nirzak)
+[![NirZak Profile Views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/Nirzak/nirzak-profile-views)
 [![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
 
 <a href="https://www.linkedin.com/in/nirzak/">
