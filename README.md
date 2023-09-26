@@ -57,7 +57,7 @@ My primary hobbies are:
 </p>
 
 <p align=left>
-      <img  width=400 src="https://streak-stats.demolab.com/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
+      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
       <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="NirZak Readme Stats" />
 </p> 
 
