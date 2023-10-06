@@ -62,3 +62,5 @@ My primary hobbies are:
 <!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
 
 ![Github Trophies](https://nirzak-trophies.vercel.app/?username=Nirzak&theme=gruvbox&row=2&column=4&margin-h=2&margin-w=2&no-frame=true&count_private=true)
+
+[![An image of @nirzak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirzak)](https://holopin.io/@nirzak)
