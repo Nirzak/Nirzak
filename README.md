@@ -56,11 +56,11 @@ My primary hobbies are:
 
 <p align=left>
       <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
-      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="NirZak Readme Stats" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="NirZak Readme Stats" />
 </p> 
 
 <!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzak&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
 
-![Github Trophies](https://nirzak-trophies.vercel.app/?username=Nirzak&theme=gruvbox&row=2&column=4&margin-h=2&margin-w=2&no-frame=true&count_private=true)
+![Github Trophies](https://nirzak-trophies.vercel.app/?username=Nirzak&theme=gruvbox&row=2&column=5&margin-h=2&margin-w=2&no-frame=true&count_private=true)
 
 [![An image of @nirzak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirzak)](https://holopin.io/@nirzak)
