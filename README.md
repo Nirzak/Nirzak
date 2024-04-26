@@ -40,8 +40,11 @@ My primary hobbies are:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
 
 ![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-776AB.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=E34F26)
 ![Ansible](https://img.shields.io/badge/ansible-C20000.svg?style=for-the-badge&logo=ansible&logoColor=white&color=C20000)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=black&color=0078D6)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
