@@ -12,20 +12,20 @@ My primary hobbies are:
 <a href="https://www.linkedin.com/in/nirzak/">
   <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
-<a href="https://discordapp.com/users/387932013962854401">
-  <img align="left" alt="Nirzak's Discord" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/discord.svg" />
+<a href="https://stackoverflow.com/users/9490406/nirzak">
+  <img align="left" alt="Nirzak's StackOverflow" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/stack.svg" />
 </a>
-<a href="https://facebook.com/nirzaak">
-  <img align="left" alt="Nirjas Jakilim | Facebook" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/facebook.svg" />
+<a href="https://nirzak.medium.com/">
+  <img align="left" alt="Nirjas Jakilim Medium" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/medium.svg" />
 </a>
 <a href="https://twitter.com/nirzak07">
-  <img align="left" alt="Nirjas Jakilim | Twitter" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/twitter.svg" />
+  <img align="left" alt="Nirjas Jakilim Twitter" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/nirzak?si=NQ00pSnmRae3XuZ61ln8bA">
   <img align="left" alt="Nirzak's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/user/Nirzak">
-  <img align="left" alt="Nirzak's Reddit" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/reddit.svg" />
+<a href="https://dev.to/nirzak">
+  <img align="left" alt="Nirzak's DevTo" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/devto.svg" />
 </a>
 
 <br>
