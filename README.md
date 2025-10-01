@@ -30,6 +30,30 @@ My primary hobbies are:
 
 <br>
 
+## &#x1f4c8; Some of My Open Source Contributions
+
+Nltk: https://github.com/nltk/nltk_data/pull/156 <br>
+Numpy: https://github.com/numpy/numpy/pull/18823 <br>
+Scrapy: https://github.com/scrapy/scrapy/pull/5675, https://github.com/scrapy/scrapy/pull/5674 <br>
+Tensorflow: https://github.com/tensorflow/tensorflow/pull/48378 <br>
+Parsel: https://github.com/scrapy/parsel/pull/251, https://github.com/scrapy/parsel/pull/230 <br>
+JMX exporter: https://github.com/prometheus/jmx_exporter/pull/944, https://github.com/prometheus/jmx_exporter/pull/946 <br>
+Mutagen: https://github.com/quodlibet/mutagen/pull/579 <br>
+Hugo Toha: https://github.com/hugo-toha/toha/pull/830, https://github.com/hugo-toha/toha/pull/287 <br>
+ruTorrent Mobile: https://github.com/xombiemp/rutorrentMobile/pull/40 <br>
+Alist: https://github.com/AlistGo/alist-koyeb/pull/7 <br>
+Tooljet: https://github.com/ToolJet/ToolJet/pull/4265 <br>
+cchardet: https://github.com/PyYoshi/cChardet/pull/75 <br>
+certifi: https://github.com/certifi/python-certifi/pull/152 <br>
+Thealgorithms: https://github.com/TheAlgorithms/C-Plus-Plus/pull/1472 <br>
+
+## &#x1f4c8; My Research Works:
+Bangla Fake News Detection: [Bangla Fake News API](https://github.com/Nirzak/Bangla-Fake-News-API), [Bangla Fake News Analysis](https://github.com/Nirzak/Fake-News-Analysis) <br>
+Phishing Detection:  [PhishDetector Extension](https://github.com/Nirzak/PhishDetector-Model-Evaluation), [Model Evaluation](https://github.com/Nirzak/PhishDetector) <br>
+Incositency Between News Body & Headlines: https://github.com/Nirzak/Detecting-Inconsistency-Between-Body-and-Headlines) <br>
+Bitcoin Price Prediction Using ML: https://github.com/Nirzak/Bitcoin-Price-Prediction-Using-Machine-Learning <br>
+
+
 ## ⚙️ Languages
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
@@ -70,10 +94,6 @@ My primary hobbies are:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 
 ## &#x1f4c8; GitHub Stats
-
-<p align="left">
-<img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
-</p>
 
 <p align=left>
       <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
