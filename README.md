@@ -37,7 +37,7 @@ Numpy: https://github.com/numpy/numpy/pull/18823 <br>
 Scrapy: https://github.com/scrapy/scrapy/pull/5675, https://github.com/scrapy/scrapy/pull/5674 <br>
 Tensorflow: https://github.com/tensorflow/tensorflow/pull/48378 <br>
 Parsel: https://github.com/scrapy/parsel/pull/251, https://github.com/scrapy/parsel/pull/230 <br>
-Wrapper: https://github.com/zhaarey/wrapper/pull/23
+Wrapper: https://github.com/zhaarey/wrapper/pull/23 <br>
 JMX exporter: https://github.com/prometheus/jmx_exporter/pull/944, https://github.com/prometheus/jmx_exporter/pull/946 <br>
 Mutagen: https://github.com/quodlibet/mutagen/pull/579 <br>
 Hugo Toha: https://github.com/hugo-toha/toha/pull/830, https://github.com/hugo-toha/toha/pull/287 <br>
